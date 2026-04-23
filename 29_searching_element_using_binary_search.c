@@ -12,7 +12,7 @@ int main()
     }
     printf("Enter element to be searched: ");
     scanf("%d", &s);
-    l=1;
+    l=0;
     h=n;
     while(l<=h)
     {
