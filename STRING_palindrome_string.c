@@ -11,7 +11,6 @@ int main()
         i++;
     }
     i=i-1;
-    l=i;
     while(i>=0)
     {
         b[j]=a[i];
